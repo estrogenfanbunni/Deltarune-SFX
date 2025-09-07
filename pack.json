@@ -1,0 +1,10 @@
+{
+  "name": "Deltarune",
+  "description": "Deltarune SFX",
+  "author": "estrogenfanbunni",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
