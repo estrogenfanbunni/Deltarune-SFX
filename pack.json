@@ -5,6 +5,7 @@
   "version": "v1.0",
   "manifest_version": 2,
   "music": false,
+  "mappings": {}
   "ignore": [
   "bumper_end.wav",
   "confirmation_negative.wav",
@@ -21,24 +22,4 @@
   "ui_steam_smoother_friend_join.m4a",
   "ui_steam_smoother_friend_online.m4a"
 ]
-  "mappings": {
-  "deck_ui_achievement_toast.wav": ["snd_select.wav"],
-  "deck_ui_bumper_end_02.wav": ["snd_bump.wav"],
-  "deck_ui_default_activation.wav": ["snd_select.wav"],
-  "deck_ui_hide_modal.wav": ["snd_smallswing.wav"],
-  "deck_ui_into_game_detail.wav": ["snd_select.wav"],
-  "deck_ui_launch_game.wav": ["snd_b.wav"],
-  "deck_ui_misc_10.wav": ["snd_menumove.wav"],
-  "deck_ui_navigation.wav": ["snd_menumove.wav"],
-  "deck_ui_out_of_game_detail.wav": ["snd_smallswing.wav"],
-  "deck_ui_show_modal.wav": ["snd_wing.wav"],
-  "deck_ui_side_menu_fly_in.wav": ["snd_select.wav"],
-  "deck_ui_side_menu_fly_out.wav": ["snd_smallswing.wav"],
-  "deck_ui_slider_down.wav": ["snd_menumove.wav"],
-  "deck_ui_slider_up.wav": ["snd_menumove.wav"],
-  "deck_ui_switch_toggle_off.wav": ["snd_equip.wav"],
-  "deck_ui_switch_toggle_on.wav": ["snd_equip.wav"],
-  "deck_ui_tab_transition_01.wav": ["snd_menumove.wav"],
-  "deck_ui_toast.wav": ["snd_lancerlaugh"],
-  "deck_ui_volume.wav": ["snd_select.wav"],
 }
